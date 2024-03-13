@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {},
+  "facebookAccount": {1},
   "email": "",
   "password": "",
   "2FASecret": "",
@@ -16,7 +16,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61551417118451"
+    "100094118835962"
   ],
   "whiteListMode": {
     "enable": false,
