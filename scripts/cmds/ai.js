@@ -8,6 +8,7 @@ const Prefixes = [
   '-ai',
   'ai',
   'ask',
+  'megan', 
 ];
 
 module.exports = {
